@@ -13,6 +13,8 @@ set -x
 
 # 2. List the contents of the parent directory to verify the presence of the 5 directories
 
+[TL] ls
+
 # 3. Create 5 text files in dir2 named file1, file2, file3, file4, and file5
 
 # 4. Append the words "Hello world" to dir2/file3
